@@ -1,0 +1,1487 @@
+﻿Log file open, 11/02/22 17:13:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: SideScroller_V422_Fall2019
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 26 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.883062
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz, GPU: NVIDIA GeForce RTX 2070
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.11.02-21.13.04:911][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:911][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.02-21.13.04:969][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:969][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.02-21.13.04:970][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.02-21.13.04:971][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.02-21.13.04:971][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.11.02-21.13.04:972][  0]LogHAL: Display: Platform has ~ 16 GB [17095098368 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.11.02-21.13.04:972][  0]LogInit: Going up to parent DeviceProfile []
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Scalability.ini]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.11.02-21.13.04:973][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.11.02-21.13.04:975][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.11.02-21.13.04:975][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.11.02-21.13.04:975][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.11.02-21.13.04:975][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Engine.ini]
+[2022.11.02-21.13.04:975][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Config/Windows/Editor.ini]
+[2022.11.02-21.13.04:976][  0]LogInit: Computer: WT220-01
+[2022.11.02-21.13.04:976][  0]LogInit: User: mcknigr
+[2022.11.02-21.13.04:976][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.11.02-21.13.04:976][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.11.02-21.13.04:976][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.11.02-21.13.04:976][  0]LogMemory: Platform Memory Stats for Windows
+[2022.11.02-21.13.04:976][  0]LogMemory: Process Physical Memory: 144.51 MB used, 144.51 MB peak
+[2022.11.02-21.13.04:976][  0]LogMemory: Process Virtual Memory: 121.13 MB used, 121.13 MB peak
+[2022.11.02-21.13.04:976][  0]LogMemory: Physical Memory: 4568.91 MB used,  11734.25 MB free, 16303.16 MB total
+[2022.11.02-21.13.04:976][  0]LogMemory: Virtual Memory: 134205528.00 MB used,  12200.16 MB free, 134217728.00 MB total
+[2022.11.02-21.13.04:985][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.11.02-21.13.05:178][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.11.02-21.13.05:178][  0]LogInit: Using OS detected language (en-US).
+[2022.11.02-21.13.05:178][  0]LogInit: Using OS detected locale (en-US).
+[2022.11.02-21.13.05:180][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.11.02-21.13.05:399][  0]LogInit: Setting process to per monitor DPI aware
+[2022.11.02-21.13.05:414][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.11.02-21.13.05:446][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.11.02-21.13.05:446][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.11.02-21.13.05:712][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.11.02-21.13.05:718][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.02-21.13.05:718][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.11.02-21.13.05:718][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.11.02-21.13.05:718][  0]LogD3D11RHI: D3D11 adapters:
+[2022.11.02-21.13.05:802][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070' (Feature Level 11_0)
+[2022.11.02-21.13.05:802][  0]LogD3D11RHI:       8031/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:       0/0/8151 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     DeviceId    : 1f02
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     SubSysId    : 86731043
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     SharedSystemMemory : 8547549184 bytes
+[2022.11.02-21.13.05:804][  0]LogD3D11RHI:     AdapterLuid : 0 51747
+[2022.11.02-21.13.05:809][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.11.02-21.13.05:809][  0]LogD3D11RHI:     GPU DeviceId: 0x1f02 (for the marketing name, search the web for "GPU Device Id")
+[2022.11.02-21.13.05:809][  0]LogWindows: EnumDisplayDevices:
+[2022.11.02-21.13.05:809][  0]LogWindows:    0. 'NVIDIA GeForce RTX 2070' (P:1 D:1)
+[2022.11.02-21.13.05:809][  0]LogWindows:    1. 'NVIDIA GeForce RTX 2070' (P:0 D:1)
+[2022.11.02-21.13.05:809][  0]LogWindows:    2. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.11.02-21.13.05:809][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070' (P:0 D:0)
+[2022.11.02-21.13.05:809][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.11.02-21.13.05:809][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:   Driver Version: 516.94 (internal:31.0.15.1694, unified:516.94)
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:      Driver Date: 7-21-2022
+[2022.11.02-21.13.05:810][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     DeviceId    : 1f02
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     SubSysId    : 86731043
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     SharedSystemMemory : 8547549184 bytes
+[2022.11.02-21.13.05:810][  0]LogD3D11RHI:     AdapterLuid : 0 51747
+[2022.11.02-21.13.05:852][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.11.02-21.13.05:852][  0]LogD3D11RHI: Async texture creation enabled
+[2022.11.02-21.13.05:852][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.11.02-21.13.05:884][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.11.02-21.13.05:941][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.11.02-21.13.06:404][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.11.02-21.13.06:428][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.11.02-21.13.06:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.11.02-21.13.06:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.11.02-21.13.06:477][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.11.02-21.13.06:485][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.11.02-21.13.06:493][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.11.02-21.13.06:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.11.02-21.13.06:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.11.02-21.13.06:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.11.02-21.13.06:532][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.11.02-21.13.06:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.11.02-21.13.06:555][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.11.02-21.13.06:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.11.02-21.13.06:577][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.11.02-21.13.06:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.11.02-21.13.06:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.11.02-21.13.06:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.11.02-21.13.06:607][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.11.02-21.13.06:621][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.11.02-21.13.06:630][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.11.02-21.13.06:639][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.11.02-21.13.06:647][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.11.02-21.13.06:647][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.11.02-21.13.06:681][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.11.02-21.13.06:796][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.11.02-21.13.06:975][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.11.02-21.13.06:977][  0]LogShaderCompilers: Guid format shader working directory is -47 characters bigger than the processId version (../../../../../../Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Intermediate/Shaders/WorkingDirectory/4412/).
+[2022.11.02-21.13.06:977][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/mcknigr/AppData/Local/Temp/UnrealShaderWorkingDir/6A96B4E649F4FCACBEF976902C40FF5E/'.
+[2022.11.02-21.13.06:978][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.11.02-21.13.06:978][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.11.02-21.13.06:978][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.11.02-21.13.07:759][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.11.02-21.13.07:759][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2022.11.02-21.13.07:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.11.02-21.13.07:759][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.11.02-21.13.07:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.02-21.13.07:759][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.11.02-21.13.07:773][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.11.02-21.13.07:773][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.11.02-21.13.07:773][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.11.02-21.13.07:785][  0]LogDerivedDataCache: Speed tests for C:/Users/mcknigr/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.11.02-21.13.07:785][  0]LogDerivedDataCache: Display: Performance to C:/Users/mcknigr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=1713.71MBs, RandomWriteSpeed=161.17MBs. Assigned SpeedClass 'Local'
+[2022.11.02-21.13.07:786][  0]LogDerivedDataCache: Using Local data cache path C:/Users/mcknigr/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.11.02-21.13.07:786][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.11.02-21.13.07:786][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.11.02-21.13.07:833][  0]LogSlate: Using FreeType 2.10.0
+[2022.11.02-21.13.07:834][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.11.02-21.13.07:880][  0]LogAssetRegistry: FAssetRegistry took 0.0048 seconds to start up
+[2022.11.02-21.13.08:337][  0]LogInit: Selected Device Profile: [Windows]
+[2022.11.02-21.13.08:337][  0]LogInit: Active device profile: [000002A1F3C17500][000002A1F2627300 49] Windows
+[2022.11.02-21.13.08:337][  0]LogInit: Profiles: [000002A1F3C17500][000002A1F2627300 49] Windows, [000002A1F3BE8D00][000002A1F39EF5C0 49] WindowsNoEditor, [000002A1F3C14C00][000002A1F39F3880 49] WindowsServer, [000002A1F3BEB400][000002A1F39F7B40 49] WindowsClient, [000002A1F3C17200][000002A1F39FA280 49] IOS, [000002A1F3BE9200][000002A1F39FE540 49] iPadAir, [000002A1F3C15100][000002A1F262A7C0 49] iPadAir2, [000002A1F3B90500][000002A1F3A16CC0 49] IPadPro, [000002A1F3B90600][000002A1F3A02D00 49] iPadAir3, [000002A1F3C16E00][000002A1F3A0EFC0 49] iPadAir4, [000002A1F3B93300][000002A1F3A0B280 49] iPadMini2, [000002A1F3C15300][000002A1F3A13540 49] iPadMini3, [000002A1F3B91700][000002A1F3A1B800 49] iPadMini4, [000002A1F3C16A00][000002A1F3A1FAC0 49] iPadMini5, [000002A1F3B77D00][000002A1F3A32480 49] iPhone6, [000002A1F3B77E00][000002A1F3A224C0 49] iPodTouch6, [000002A1F3B92D00][000002A1F3A369C0 49] iPhone7, [000002A1F3B92C00][000002A1F3A2AA00 49] iPodTouch7, [000002A1F3B75000][000002A1F3A06C80 49] iPhone5S, [000002A1F3B92400][000002A1F3A26F40 49] iPhone6Plus, [000002A1F3B76E00][000002A1F3A3B200 49] iPhone6S, [000002A1F3B92900][000002A1F4A514C0 49] iPhone6SPlus, [000002A1F3B75500][000002A1F4A55780 49] iPhone7Plus, [000002A1F3B91F00][000002A1F4A59A40 49] iPhoneSE, [000002A1F3B76900][000002A1F4A5C180 49] iPhone8, [000002A1F3B91000][000002A1F4A60440 49] iPhone8Plus, [000002A1F3B75A00][000002A1F4A64700 49] iPhoneX, [000002A1F3B90700][000002A1F4A689C0 49] iPhoneXS, [000002A1F3B76F00][000002A1F3A2EC40 49] iPhoneXSMax, [000002A1F3B92E00][000002A1F4A6CEC0 49] iPhoneXR, [000002A1F3B77A00][000002A1F4A75180 49] iPhone11, [000002A1F3B93B00][000002A1F4A79440 49] iPhone11Pro, [000002A1F3B76B00][000002A1F4A7D700 49] iPhone11ProMax, [000002A1F3B93800][000002A1F4A819C0 49] iPhoneSE2, [000002A1F3B75400][000002A1F4A84100 49] iPhone12Mini, [000002A1F3B93700][000002A1F4A883C0 49] iPhone12, [000002A1F3B75200][000002A1F4A8C680 49] iPhone12Pro, [000002A1F3B91500][000002A1F4A90940 49] iPhone12ProMax, [000002A1F3B76500][000002A1F4A94C00 49] iPadPro105, [000002A1F3B90B00][000002A1F4A70E80 49] iPadPro129, [000002A1F3B76100][000002A1F4A99100 49] iPadPro97, [000002A1F3B91A00][000002A1F4AA13C0 49] iPadPro2_129, [000002A1F3B76000][000002A1F4AA5680 49] iPad5, [000002A1F3B92B00][000002A1F4AA9940 49] iPad6, [000002A1F3B75F00][000002A1F4AADC00 49] iPad7, [000002A1F3B91E00][000002A1F4AB0340 49] iPad8, [000002A1F3B76C00][000002A1F4AB4600 49] iPadPro11, [000002A1F3B92700][000002A1F4AB88C0 49] iPadPro2_11, [000002A1F3B74B00][000002A1F4ABCB80 49] iPadPro3_129, [000002A1F3B92800][000002A1F4AC0E40 49] iPadPro4_129, [000002A1F3B77B00][000002A1F4A9D0C0 49] AppleTV, [000002A1F3B90300][000002A1F4AC5340 49] AppleTV4K, [000002A1F3B74E00][000002A1F4ACD600 49] TVOS, [000002A1F3B92100][000002A1F4AD18C0 49] Mac, [000002A1F3B77900][000002A1F4AD5B80 49] MacClient, [000002A1F3B93100][000002A1F4AD82C0 49] MacNoEditor, [000002A1F3B74100][000002A1F4ADC580 49] MacServer, [000002A1F3B90200][000002A1F4AE0840 49] Linux, [000002A1F3B77000][000002A1F4AE4B00 49] LinuxAArch64, [000002A1F3B93000][000002A1F4AE8DC0 49] LinuxNoEditor, [000002A1F3B76700][000002A1F4AED080 49] LinuxAArch64NoEditor, [000002A1F3B93F00][000002A1F4AC9300 49] LinuxClient, [000002A1F3DE4B00][000002A1F4AF1580 49] LinuxAArch64Client, [000002A1F3BE8800][000002A1F4AF9840 49] LinuxServer, [000002A1F3DE6400][000002A1F4AFDB00 49] LinuxAArch64Server, [000002A1F3BE8F00][000002A1F4B00240 49] Android, [000002A1F3DE5300][000002A1F4B04500 49] Android_Low, [000002A1F3BEAB00][000002A1F4B087C0 49] Android_Mid, [000002A1F3DE4100][000002A1F4B0CA80 49] Android_High, [000002A1F3BE8B00][000002A1F4B10D40 49] Android_Default, [000002A1F3DE4800][000002A1F4B15000 49] Android_Adreno4xx, [000002A1F3BEA800][000002A1F4B192C0 49] Android_Adreno5xx_Low, [000002A1F3DE4F00][000002A1F4AF5540 49] Android_Adreno5xx, [000002A1F3BE9800][000002A1F4B1D7C0 49] Android_Adreno6xx, [000002A1F3DE5400][000002A1F4B25A80 49] Android_Adreno6xx_Vulkan, [000002A1F3BE9400][000002A1F4B281C0 49] Android_Mali_T6xx, [000002A1F3DE4600][000002A1F4B2C480 49] Android_Mali_T7xx, [000002A1F3BEB100][000002A1F4B30740 49] Android_Mali_T8xx, [000002A1F3DE5500][000002A1F4B34A00 49] Android_Mali_G71, [000002A1F3BEA400][000002A1F4B38CC0 49] Android_Mali_G72, [000002A1F3DE5A00][000002A1F4B3CF80 49] Android_Mali_G72_Vulkan, [000002A1F3BEBF00][000002A1F4B41240 49] Android_Mali_G76, [000002A1F3B91100][000002A1F4B45500 49] Android_Mali_G76_Vulkan, [000002A1F3B76600][000002A1F4B21780 49] Android_Mali_G77, [000002A1F3B92200][000002A1F4B4DA40 49] Android_Mali_G77_Vulkan, [000002A1F3B77400][000002A1F4B50180 49] Android_Mali_G78, [000002A1F3B91C00][000002A1F4B54440 49] Android_Mali_G78_Vulkan, [000002A1F3B75800][000002A1F4B58700 49] Android_Mali_G710, [000002A1F3B93500][000002A1F4B5C9C0 49] Android_Mali_G710_Vulkan, [000002A1F3B77C00][000002A1F4B60C80 49] Android_Vulkan_SM5, [000002A1F3B93D00][000002A1F4B64F40 49] Android_PowerVR_G6xxx, [000002A1F3B75100][000002A1F4B69200 49] Android_PowerVR_GT7xxx, [000002A1F3B91800][000002A1F4B6D4C0 49] Android_PowerVR_GE8xxx, [000002A1F3B75900][000002A1F4B49740 49] Android_PowerVR_GM9xxx, [000002A1F3B93C00][000002A1F4B719C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002A1F3DE5800][000002A1F4B78100 49] Android_TegraK1, [000002A1F3B93600][000002A1F4B7C3C0 49] Android_Unknown_Vulkan, [000002A1F3DE4300][000002A1F4B80680 49] Lumin, [000002A1F3B90D00][000002A1F4B84940 49] Lumin_Desktop, [000002A1F3DE5200][000002A1F4B88C00 49] HoloLens, 
+[2022.11.02-21.13.08:658][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.11.02-21.13.08:658][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.11.02-21.13.08:658][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.11.02-21.13.08:658][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.11.02-21.13.08:660][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.11.02-21.13.08:820][  0]LogNetVersion: SideScroller_V422_Fall2019 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 1441273239)
+[2022.11.02-21.13.09:681][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.11.02-21.13.09:793][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.11.02-21.13.09:801][  0]LogUObjectArray: 17174 objects as part of root set at end of initial load.
+[2022.11.02-21.13.09:801][  0]LogUObjectAllocator: 4300480 out of 0 bytes used by permanent object pool.
+[2022.11.02-21.13.09:801][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.11.02-21.13.10:584][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 15F3809846D1597F1B3110BCB983FFFB | Instance: 61AC948543106AB932E5CE9B069F2D85 (WT220-01-4412).
+[2022.11.02-21.13.10:915][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.11.02-21.13.10:930][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.11.02-21.13.10:967][  0]LogPython: Using Python 3.7.7
+[2022.11.02-21.13.11:915][  0]SourceControl: Source control is disabled
+[2022.11.02-21.13.11:915][  0]SourceControl: Source control is disabled
+[2022.11.02-21.13.11:935][  0]SourceControl: Source control is disabled
+[2022.11.02-21.13.11:949][  0]SourceControl: Source control is disabled
+[2022.11.02-21.13.11:980][  0]SourceControl: Source control is disabled
+[2022.11.02-21.13.12:119][  0]LogUProjectInfo: Found projects:
+[2022.11.02-21.13.12:687][  0]LogOpenImageDenoise: OIDN starting up
+[2022.11.02-21.13.12:723][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.11.02-21.13.12:775][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-21.13.12:775][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.11.02-21.13.13:048][  0]LogCollectionManager: Loaded 0 collections in 0.001495 seconds
+[2022.11.02-21.13.13:102][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Saved/Collections/' took 0.00s
+[2022.11.02-21.13.13:102][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Content/Developers/mcknigr/Collections/' took 0.00s
+[2022.11.02-21.13.13:102][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Content/Collections/' took 0.00s
+[2022.11.02-21.13.13:102][  0]LogOcInput: OculusInput pre-init called
+[2022.11.02-21.13.13:503][  0]LogEngine: Initializing Engine...
+[2022.11.02-21.13.13:517][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.11.02-21.13.13:517][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.11.02-21.13.13:517][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.11.02-21.13.13:519][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.11.02-21.13.13:770][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.11.02-21.13.13:797][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.11.02-21.13.13:800][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.11.02-21.13.13:808][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.11.02-21.13.13:808][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.11.02-21.13.13:809][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.11.02-21.13.13:809][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.11.02-21.13.13:810][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.02-21.13.13:810][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.02-21.13.13:811][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.02-21.13.13:811][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.02-21.13.13:811][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.02-21.13.13:811][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.11.02-21.13.13:840][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.11.02-21.13.13:840][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.11.02-21.13.13:901][  0]LogAudioMixer: Display: Using Audio Device DELL P2419H (NVIDIA High Definition Audio)
+[2022.11.02-21.13.13:901][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.02-21.13.13:903][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.02-21.13.13:904][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.02-21.13.13:905][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.11.02-21.13.13:906][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.11.02-21.13.13:906][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.11.02-21.13.13:906][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.11.02-21.13.13:906][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.11.02-21.13.13:906][  0]LogInit: FAudioDevice initialized.
+[2022.11.02-21.13.13:907][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.11.02-21.13.13:907][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.11.02-21.13.13:946][  0]LogDerivedDataCache: Saved boot cache 0.04s 96MB C:/Users/mcknigr/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.11.02-21.13.13:948][  0]LogInit: Texture streaming: Enabled
+[2022.11.02-21.13.13:978][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.11.02-21.13.13:991][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.11.02-21.13.13:991][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.11.02-21.13.14:006][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.11.02-21.13.14:572][  0]LogInit: Transaction tracking system initialized
+[2022.11.02-21.13.14:651][  0]BlueprintLog: New page: Editor Load
+[2022.11.02-21.13.14:871][  0]LocalizationService: Localization service is disabled
+[2022.11.02-21.13.14:970][  0]TimingProfiler: Initialize
+[2022.11.02-21.13.14:970][  0]TimingProfiler: OnSessionChanged
+[2022.11.02-21.13.14:970][  0]LoadingProfiler: Initialize
+[2022.11.02-21.13.14:971][  0]LoadingProfiler: OnSessionChanged
+[2022.11.02-21.13.14:971][  0]NetworkingProfiler: Initialize
+[2022.11.02-21.13.14:971][  0]NetworkingProfiler: OnSessionChanged
+[2022.11.02-21.13.14:971][  0]MemoryProfiler: Initialize
+[2022.11.02-21.13.14:971][  0]MemoryProfiler: OnSessionChanged
+[2022.11.02-21.13.14:980][  0]LogClass: Warning: In asset 'None', there is an enum property of type 'EIOSVersion' with an invalid value of 'IOS_11'
+[2022.11.02-21.13.14:980][  0]LogObj: Error: LoadConfig (/Script/IOSRuntimeSettings.Default__IOSRuntimeSettings): import failed for MinimumiOSVersion in: IOS_11
+[2022.11.02-21.13.15:227][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.11.02-21.13.15:227][  0]LogCook: Display: Mobile HDR setting 1
+[2022.11.02-21.13.15:746][  0]LogFileCache: Scanning file cache for directory 'C:/Users/mcknigr/Downloads/SideScroller_V422/SideScroller_V422/SideScroller_V422/Content/' took 0.01s
+[2022.11.02-21.13.15:908][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.11.02-21.13.15:919][  0]SourceControl: Source control is disabled
+[2022.11.02-21.13.15:919][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.016
+[2022.11.02-21.13.15:921][  0]LightingResults: New page: Lighting Build
+[2022.11.02-21.13.15:924][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.11.02-21.13.15:925][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.02-21.13.15:925][  0]MapCheck: New page: Map Check
+[2022.11.02-21.13.15:925][  0]LightingResults: New page: Lighting Build
+[2022.11.02-21.13.15:931][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.02-21.13.15:935][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.11.02-21.13.16:095][  0]LogBlueprint: Warning: [AssetLog] C:\Users\mcknigr\Downloads\SideScroller_V422\SideScroller_V422\SideScroller_V422\Content\Custom_Blueprints\Puzzle_Elements\Sphere_Door.uasset: [Compiler] OnComponentBeginOverlap (Box)  does not have a valid matching component!
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Shield_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Key_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Shield_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Shield_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Shield_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Shield_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTexture: Display: Building textures: Key_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.16:996][  0]LogStaticMesh: Building static mesh Shield...
+[2022.11.02-21.13.17:013][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.17:013][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Collectables/Shields/Shield.Shield
+[2022.11.02-21.13.17:041][  0]LogTexture: Display: Building textures: Key_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:041][  0]LogMaterial: Display: Missing cached shadermap for Shield2 in PCD3D_SM5, Default, SM5 (DDC key hash: E454BC0AA2ABA7A9D18E7E7BFC510BDD068CE791), compiling. 
+[2022.11.02-21.13.17:131][  0]LogTexture: Display: Building textures: Key_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:131][  0]LogTexture: Display: Building textures: Health_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:131][  0]LogTexture: Display: Building textures: Key_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:131][  0]LogTexture: Display: Building textures: Health_Emissive (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:131][  0]LogTexture: Display: Building textures: Health_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:131][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.17:153][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2022.11.02-21.13.17:153][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 25
+[2022.11.02-21.13.17:153][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2022.11.02-21.13.17:153][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2022.11.02-21.13.17:153][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 4
+[2022.11.02-21.13.17:153][  0]LogShaderCompilers: Display: Started 32 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.17:153][  0]LogStaticMesh: Building static mesh Key...
+[2022.11.02-21.13.17:196][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:196][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:196][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Custom_Assets/Collectables/Key/Key.Key
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:467][  0]LogTexture: Display: Building textures: Coin_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:467][  0]LogMaterial: Display: Missing cached shadermap for Key in PCD3D_SM5, Default, SM5 (DDC key hash: 6CBE07C16D3C2369BF57456FB67160534B21A32D), compiling. 
+[2022.11.02-21.13.17:489][  0]LogTexture: Display: Building textures: Charm_Metallic (OODLE_AutoDXT, 1024X1024)
+[2022.11.02-21.13.17:489][  0]LogTexture: Display: Building textures: Coin_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.17:489][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.17:492][  0]LogStaticMesh: Building static mesh HealthUp...
+[2022.11.02-21.13.17:510][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Collectables/HealthUp/HealthUp.HealthUp
+[2022.11.02-21.13.17:512][  0]LogMaterial: Display: Missing cached shadermap for Health in PCD3D_SM5, Default, SM5 (DDC key hash: 4A530A66AE7F46FBFA7367A15A3CC818113B351B), compiling. 
+[2022.11.02-21.13.17:584][  0]LogTexture: Display: Building textures: Charm_Roughness (OODLE_AutoDXT, 1024X1024)
+[2022.11.02-21.13.17:584][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:584][  0]LogTexture: Display: Building textures: Charm_Base_Color (OODLE_AutoDXT, 1024X1024)
+[2022.11.02-21.13.17:584][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:584][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.17:584][  0]LogShaderCompilers: Display: Submitted 64 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Charm_Normal_OpenGL (OODLE_BC5, 1024X1024)
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Coin_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Coin_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Rockface_Emissive (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Rockface_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Rockface_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Fang_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTexture: Display: Building textures: Fang_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:602][  0]LogMaterial: Display: Missing cached shadermap for M_Coin in PCD3D_SM5, Default, SM5 (DDC key hash: 280D84152CC3664034866BE9247CCBC8782E5F08), compiling. 
+[2022.11.02-21.13.18:652][  0]LogTexture: Display: Building textures: Bat_Eye_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:652][  0]LogTexture: Display: Building textures: Bat_Eye_Emissive (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:652][  0]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.18:658][  0]LogStaticMesh: Building static mesh AmmoUp...
+[2022.11.02-21.13.18:673][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Collectables/AmmoUp/AmmoUp.AmmoUp
+[2022.11.02-21.13.18:764][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:764][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:764][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:764][  0]LogTexture: Display: Building textures: Bullet_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.18:818][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.18:818][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:015][  0]LogTexture: Display: Building textures: Pad_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:015][  0]LogTexture: Display: Building textures: Pad_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:015][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:015][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTexture: Display: Building textures: Bat_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:623][  0]LogTexture: Display: Building textures: Pad_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTexture: Display: Building textures: Bat_Eye_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.19:623][  0]LogTexture: Display: Building textures: Bat_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:623][  0]LogTexture: Display: Building textures: Pad_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:623][  0]LogTexture: Display: Building textures: Bullet_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:725][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:954][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:954][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:954][  0]LogTexture: Display: Building textures: Effects_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:954][  0]LogTexture: Display: Building textures: Effects_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.19:954][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:954][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.19:954][  0]LogTexture: Display: Building textures: Pad_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:954][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.19:954][  0]LogTexture: Display: Building textures: Effects_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.19:954][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:128][  0]LogTexture: Display: Building textures: Effects_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.20:128][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:128][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:202][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:202][  0]LogTexture: Display: Building textures: Bullet_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.20:447][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:447][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:447][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.20:447][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:447][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:448][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.20:508][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Mark_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Mark_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Effects_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Mark_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Mark_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Effects_Emissive (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Box_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Mark_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Box_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:126][  0]LogTexture: Display: Building textures: Bullet_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.21:216][  0]LogTexture: Display: Building textures: Box_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:216][  0]LogTexture: Display: Building textures: Box_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.21:216][  0]LogTexture: Display: Building textures: Box_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:216][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:281][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:281][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:281][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:386][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:404][  0]LogTexture: Display: Building textures: Bullet_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:563][  0]LogTexture: Display: Building textures: Pole_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:563][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:563][  0]LogTexture: Display: Building textures: Pole_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:563][  0]LogTexture: Display: Building textures: Pole_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.21:563][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:563][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:563][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:767][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:767][  0]LogTexture: Display: Building textures: Pole_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:767][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:767][  0]LogTexture: Display: Building textures: Pole_Height (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:767][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:901][  0]LogMaterial: Display: Missing cached shadermap for Bullet in PCD3D_SM5, Default, SM5 (DDC key hash: 897EAA0B4C0E4EE86DBAA4257D3EC21EF94014BB), compiling. 
+[2022.11.02-21.13.21:920][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.21:921][  0]LogMaterial: Display: Missing cached shadermap for Charm in PCD3D_SM5, Default, SM5 (DDC key hash: 98C0131E77B33FED0A6E63A3E96EB091EE4EFF5F), compiling. 
+[2022.11.02-21.13.21:943][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:943][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.21:947][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.21:947][  0]LogStaticMesh: Building static mesh Coin...
+[2022.11.02-21.13.21:967][  0]LogTexture: Display: Building textures: Flag_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.21:967][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Collectables/Coin/Coin.Coin
+[2022.11.02-21.13.22:051][  0]LogTexture: Display: Building textures: Pole_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:051][  0]LogTexture: Display: Building textures: Flag_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.22:051][  0]LogTexture: Display: Building textures: Flag_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:051][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Custom_Assets/Hazards/RockFace/Model/Rockface_Idle.Rockface_Idle
+[2022.11.02-21.13.22:051][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:051][  0]LogMaterial: Display: Missing cached shadermap for Rockface2 in PCD3D_SM5, Default, SM5 (DDC key hash: 0B63C7331869FC43A99D5A4F052F3A797CAE2AF0), compiling. 
+[2022.11.02-21.13.22:079][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:079][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.22:079][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:107][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Custom_Assets/Hazards/RockFace/Model/Rockface_Jump_Anim.Rockface_Jump_Anim
+[2022.11.02-21.13.22:107][  0]LogSkeletalMesh: Building Skeletal Mesh Rockface...
+[2022.11.02-21.13.22:108][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Custom_Assets/Hazards/RockFace/Model/Rockface.Rockface
+[2022.11.02-21.13.22:113][  0]LogMaterial: Display: Missing cached shadermap for Fang in PCD3D_SM5, Default, SM5 (DDC key hash: 126C39BEB194D4A33FA4D66F5D248B6E0C1D0C8D), compiling. 
+[2022.11.02-21.13.22:134][  0]LogTexture: Display: Building textures: Flag_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:134][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:135][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.22:135][  0]LogMaterial: Display: Missing cached shadermap for Bat_Eye in PCD3D_SM5, Default, SM5 (DDC key hash: 2CC585D3F2F532C581026AE9FBD6C84B896C9E83), compiling. 
+[2022.11.02-21.13.22:157][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:158][  0]LogTexture: Display: Building textures: Flag_Height (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:158][  0]LogMaterial: Display: Missing cached shadermap for Bat in PCD3D_SM5, Default, SM5 (DDC key hash: 175C11325D29DBF48341B8F896F451A905168BFB), compiling. 
+[2022.11.02-21.13.22:181][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:181][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:181][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\mcknigr\Downloads\SideScroller_V422\SideScroller_V422\SideScroller_V422\Content\Custom_Assets\Hazards\Bat\Model\Bat_Enemy.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.11.02-21.13.22:182][  0]LogSkeletalMesh: Building Skeletal Mesh Bat_Enemy...
+[2022.11.02-21.13.22:184][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Custom_Assets/Hazards/Bat/Model/Bat_Enemy.Bat_Enemy
+[2022.11.02-21.13.22:198][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:198][  0]LogMaterial: Display: Missing cached shadermap for Pad in PCD3D_SM5, Default, SM5 (DDC key hash: A8563ACB3B879B4794471C0519212DE2AF5458ED), compiling. 
+[2022.11.02-21.13.22:216][  0]LogTexture: Display: Building textures: Flag_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:216][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:225][  0]LogStaticMesh: Building static mesh Teleport_Pad...
+[2022.11.02-21.13.22:230][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Custom_Assets/Utility/TeleportPad/Pad/Teleport_Pad.Teleport_Pad
+[2022.11.02-21.13.22:232][  0]LogMaterial: Display: Missing cached shadermap for Effects in PCD3D_SM5, Default, SM5 (DDC key hash: 6F644067D0FA23C055CDB8DBB301A475A53D764F), compiling. 
+[2022.11.02-21.13.22:331][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:331][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:331][  0]LogTexture: Display: Building textures: Box_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:331][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:331][  0]LogShaderCompilers: Display: Submitted 72 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:371][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:371][  0]LogStaticMesh: Building static mesh Teleport_Effects...
+[2022.11.02-21.13.22:393][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Utility/TeleportPad/Effects/Teleport_Effects.Teleport_Effects
+[2022.11.02-21.13.22:399][  0]LogMaterial: Display: Missing cached shadermap for Mark in PCD3D_SM5, Default, SM5 (DDC key hash: B30FE8CE432AB269A6B9358EA22BF809E8A310BE), compiling. 
+[2022.11.02-21.13.22:410][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:411][  0]LogMaterial: Display: Missing cached shadermap for Box in PCD3D_SM5, Default, SM5 (DDC key hash: 21804F448C39EBD57A5B1EDC08F12D6171D9B385), compiling. 
+[2022.11.02-21.13.22:421][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:428][  0]LogStaticMesh: Building static mesh Question_Block...
+[2022.11.02-21.13.22:478][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:478][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:478][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:478][  0]LogStaticMesh: Built static mesh [0.05s] /Game/Custom_Assets/Utility/ItemBlock/Question_Block.Question_Block
+[2022.11.02-21.13.22:512][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:512][  0]LogMaterial: Display: Missing cached shadermap for Pole in PCD3D_SM5, Default, SM5 (DDC key hash: E5F3E35FF0489EE71650D4463C4823EA11BC9D88), compiling. 
+[2022.11.02-21.13.22:543][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:543][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:587][  0]LogTexture: Display: Building textures: Box_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:587][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.22:587][  0]LogMaterial: Display: Missing cached shadermap for Flag2 in PCD3D_SM5, Default, SM5 (DDC key hash: E648BFE25ECCD5B7516A7C5B47E367A6ED346B28), compiling. 
+[2022.11.02-21.13.22:620][  0]LogTexture: Display: Building textures: Box_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:621][  0]LogTexture: Display: Building textures: Steel_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.22:621][  0]LogShaderCompilers: Display: Submitted 42 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.22:621][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\mcknigr\Downloads\SideScroller_V422\SideScroller_V422\SideScroller_V422\Content\Custom_Assets\Utility\Flag\Flag.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2022.11.02-21.13.22:621][  0]LogSkeletalMesh: Building Skeletal Mesh Flag...
+[2022.11.02-21.13.22:622][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Custom_Assets/Utility/Flag/Flag.Flag
+[2022.11.02-21.13.22:624][  0]LogStaticMesh: Building static mesh Breakable_Block...
+[2022.11.02-21.13.22:652][  0]LogTexture: Display: Building textures: Box_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.22:652][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Custom_Assets/Utility/BreakableBlock/Breakable_Block.Breakable_Block
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTexture: Display: Building textures: Box_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTexture: Display: Building textures: Steel_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:255][  0]LogTexture: Display: Building textures: Steel_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:255][  0]LogTexture: Display: Building textures: Steel_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:255][  0]LogTexture: Display: Building textures: T_Coin (BGRA8, 260X231)
+[2022.11.02-21.13.23:255][  0]LogTexture: Display: Building textures: UE4Man_Logo_N (OODLE_BC5, 512X512)
+[2022.11.02-21.13.23:255][  0]LogMaterial: Display: Missing cached shadermap for Box in PCD3D_SM5, Default, SM5 (DDC key hash: BAEACE7A508A7852C1E7ACD3977389BA3DADF516), compiling. 
+[2022.11.02-21.13.23:287][  0]LogTexture: Display: Building textures: Bomb_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:287][  0]LogTexture: Display: Building textures: Steel_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:287][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.23:294][  0]LogStaticMesh: Building static mesh Custom_Button...
+[2022.11.02-21.13.23:301][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Custom_Assets/Custom_Button.Custom_Button
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTexture: Display: Building textures: Bomb_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.23:790][  0]LogTexture: Display: Building textures: Bomb_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:790][  0]LogTexture: Display: Building textures: Bomb_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:790][  0]LogStaticMesh: Building static mesh Spikes...
+[2022.11.02-21.13.23:809][  0]LogTexture: Display: Building textures: Diamond_Dragon_Mask_Roughness (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:809][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Hazards/Spikes/Spikes.Spikes
+[2022.11.02-21.13.23:812][  0]LogMaterial: Display: Missing cached shadermap for Outer_Orb in PCD3D_SM5, Default, SM5 (DDC key hash: 8CF4DC266D067B872A2392A5943452C64D66434B), compiling. 
+[2022.11.02-21.13.23:851][  0]LogTexture: Display: Building textures: Bomb_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:851][  0]LogTexture: Display: Building textures: Diamond_Dragon_Mask_Metallic (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:851][  0]LogTexture: Display: Building textures: Diamond_Dragon_Mask_Mixed_AO (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.23:851][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.23:852][  0]LogMaterial: Display: Missing cached shadermap for Inner_Orb in PCD3D_SM5, Default, SM5 (DDC key hash: 1EF31E8BF32C6E34794C62E1E1D0535220AB663D), compiling. 
+[2022.11.02-21.13.23:865][  0]LogTexture: Display: Building textures: Diamond_Dragon_Mask_Normal_OpenGL (OODLE_BC5, 2048X2048)
+[2022.11.02-21.13.23:865][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.23:882][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.23:882][  0]LogStaticMesh: Building static mesh Energy_Orb...
+[2022.11.02-21.13.23:901][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Custom_Assets/Collectables/EnergyUp/Energy_Orb.Energy_Orb
+[2022.11.02-21.13.23:905][  0]LogMaterial: Display: Missing cached shadermap for Steel_Spike in PCD3D_SM5, Default, SM5 (DDC key hash: 1462391A185A7AA37889F5A96242DF0D9514D347), compiling. 
+[2022.11.02-21.13.23:916][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.23:916][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.23:970][  0]LogStaticMesh: Building static mesh Charm_Piercing_Shot...
+[2022.11.02-21.13.24:011][  0]LogStaticMesh: Built static mesh [0.04s] /Game/Custom_Assets/PowerUps/FirePower/Charm_Piercing_Shot.Charm_Piercing_Shot
+[2022.11.02-21.13.24:024][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_Body in PCD3D_SM5, Default, SM5 (DDC key hash: 37ABE31568B1ED6EDD5A9E6097DF4549E47427AB), compiling. 
+[2022.11.02-21.13.24:087][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.11.02-21.13.24:087][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:087][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:087][  0]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.24:089][  0]LogMaterial: Display: Missing cached shadermap for M_UE4Man_ChestLogo in PCD3D_SM5, Default, SM5 (DDC key hash: 392FB25BA6CEDF416AAB3F8F98A959B59BA9311F), compiling. 
+[2022.11.02-21.13.24:133][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:133][  0]LogShaderCompilers: Display: Submitted 88 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.24:152][  0]LogSkeletalMesh: Building Skeletal Mesh SK_Mannequin...
+[2022.11.02-21.13.24:190][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:190][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:190][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:190][  0]LogSkeletalMesh: Built Skeletal Mesh [0.04s] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2022.11.02-21.13.24:220][  0]LogStaticMesh: Building static mesh Bomb...
+[2022.11.02-21.13.24:249][  0]LogStaticMesh: Built static mesh [0.03s] /Game/Custom_Assets/Utility/Bomb/Bomb.Bomb
+[2022.11.02-21.13.24:407][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:407][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:407][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:407][  0]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 256X256)
+[2022.11.02-21.13.24:407][  0]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2022.11.02-21.13.24:407][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.02-21.13.24:407][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 64X64)
+[2022.11.02-21.13.24:407][  0]LogMaterial: Display: Missing cached shadermap for Bomb2 in PCD3D_SM5, Default, SM5 (DDC key hash: CB30A1364009B2663D2BCB3E897A13254CB8A5ED), compiling. 
+[2022.11.02-21.13.24:423][  0]LogTexture: Display: Building textures: Diamond_Dragon_Mask_Emissive (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.24:423][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2022.11.02-21.13.24:423][  0]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 256X256)
+[2022.11.02-21.13.24:687][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 64X64)
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: Diamond_Dragon_Mask_Base_Color (OODLE_AutoDXT, 2048X2048)
+[2022.11.02-21.13.24:687][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 256X128)
+[2022.11.02-21.13.24:687][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_6 (G8, 512X512)
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 64X32)
+[2022.11.02-21.13.24:687][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_7 (G8, 256X128)
+[2022.11.02-21.13.24:687][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:687][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:687][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.11.02-21.13.24:687][  0]LogAudioDerivedData: Display: Building compressed audio format OGG hash OGG10000-1-1-1-1-1 wave 13_-_Welcome_Mat_To_The_Dark_Lobby...
+[2022.11.02-21.13.24:734][  0]LogAudioDerivedData: Display: Compression Quality for SoundWave /Game/Custom_Music/13_-_Welcome_Mat_To_The_Dark_Lobby.13_-_Welcome_Mat_To_The_Dark_Lobby will be modified from 40 to 40.
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 795
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 785
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 775
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 765
+[2022.11.02-21.13.27:320][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.27:320][  0]LogAudioDerivedData: Display: Updated SoundWave->RawPCMDataSize from 0 to 35919360 while cooking SoundWave /Game/Custom_Music/13_-_Welcome_Mat_To_The_Dark_Lobby.13_-_Welcome_Mat_To_The_Dark_Lobby.
+[2022.11.02-21.13.27:326][  0]LogStaticMesh: Building static mesh Platform...
+[2022.11.02-21.13.27:329][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Custom_Assets/Utility/Platform/Platform.Platform
+[2022.11.02-21.13.27:331][  0]LogMaterial: Display: Missing cached shadermap for Diamond_Dragon_Mask in PCD3D_SM5, Default, SM5 (DDC key hash: AAC0145DD98EFC6F137D83A142D5DE49E029AA63), compiling. 
+[2022.11.02-21.13.27:356][  0]LogShaderCompilers: Display: Submitted 41 shader compile jobs with 'Low' priority
+[2022.11.02-21.13.27:374][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 796
+[2022.11.02-21.13.27:374][  0]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.27:374][  0]LogStaticMesh: Building static mesh Mask_Diamond_Dragon...
+[2022.11.02-21.13.27:455][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Custom_Assets/Dragon_Mask/Mask_Diamond_Dragon.Mask_Diamond_Dragon
+[2022.11.02-21.13.27:519][  0]LogSkeletalMesh: Building Skeletal Mesh Thin_Wall_DM...
+[2022.11.02-21.13.27:522][  0]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/Custom_Assets/Destructibles/Thin_Wall_DM.Thin_Wall_DM
+[2022.11.02-21.13.27:523][  0]LogStaticMesh: Building static mesh Thin_Wall...
+[2022.11.02-21.13.27:527][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Custom_Assets/Destructibles/Thin_Wall.Thin_Wall
+[2022.11.02-21.13.27:531][  0]LogTexture: Display: Building textures: DeprecatedTexture3C82F3CA4A8CAAAE5F7019AE99F28414 (BGRA8, 128X128)
+[2022.11.02-21.13.27:577][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2022.11.02-21.13.27:578][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.11.02-21.13.27:673][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.11.02-21.13.27:705][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.11.02-21.13.27:714][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.11.02-21.13.27:715][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.204ms to complete.
+[2022.11.02-21.13.27:715][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 11.796
+[2022.11.02-21.13.27:734][  0]LogUnrealEdMisc: Total Editor Startup Time, took 25.832
+[2022.11.02-21.13.27:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-21.13.27:978][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-21.13.27:985][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-21.13.27:992][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.02-21.13.28:029][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0106 seconds. Added 3831 classes and 933 folders.
+[2022.11.02-21.13.28:037][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.11.02-21.13.28:042][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.02-21.13.28:042][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:042][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-21.13.28:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:043][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.11.02-21.13.28:043][  0]LogPakFile: OnPakFileMounted2Time == 0.000747
+[2022.11.02-21.13.28:045][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.02-21.13.28:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.02-21.13.28:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.11.02-21.13.28:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-21.13.28:047][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.11.02-21.13.28:047][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:047][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.11.02-21.13.28:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:047][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.11.02-21.13.28:047][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.11.02-21.13.28:048][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-21.13.28:048][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:048][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-21.13.28:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:048][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.11.02-21.13.28:048][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-21.13.28:050][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.02-21.13.28:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.02-21.13.28:050][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:050][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.11.02-21.13.28:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.11.02-21.13.28:052][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.02-21.13.28:052][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:052][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.02-21.13.28:052][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:052][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.11.02-21.13.28:052][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.02-21.13.28:053][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.02-21.13.28:053][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:053][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.02-21.13.28:053][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:053][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.11.02-21.13.28:053][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.02-21.13.28:054][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.02-21.13.28:054][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:054][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.02-21.13.28:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:054][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.11.02-21.13.28:054][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.11.02-21.13.28:056][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.02-21.13.28:056][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:056][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.02-21.13.28:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:056][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.11.02-21.13.28:056][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.11.02-21.13.28:058][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.11.02-21.13.28:058][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:058][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.11.02-21.13.28:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:058][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.11.02-21.13.28:058][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-21.13.28:059][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.11.02-21.13.28:059][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:059][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.11.02-21.13.28:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:059][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.11.02-21.13.28:059][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.11.02-21.13.28:060][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.02-21.13.28:060][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:060][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.02-21.13.28:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:060][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.11.02-21.13.28:060][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-21.13.28:062][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-21.13.28:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-21.13.28:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.11.02-21.13.28:062][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-21.13.28:063][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.02-21.13.28:063][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:063][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.02-21.13.28:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:063][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.11.02-21.13.28:063][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.11.02-21.13.28:064][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.11.02-21.13.28:064][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:064][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.11.02-21.13.28:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:064][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.11.02-21.13.28:064][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.11.02-21.13.28:066][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.02-21.13.28:066][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:066][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-21.13.28:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:066][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.11.02-21.13.28:066][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.11.02-21.13.28:068][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.11.02-21.13.28:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.11.02-21.13.28:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.11.02-21.13.28:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.11.02-21.13.28:069][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.02-21.13.28:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.02-21.13.28:069][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:069][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.11.02-21.13.28:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2022.11.02-21.13.28:070][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-21.13.28:070][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:070][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-21.13.28:070][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:070][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.11.02-21.13.28:070][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.11.02-21.13.28:072][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-21.13.28:072][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:072][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-21.13.28:072][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:072][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.11.02-21.13.28:072][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.11.02-21.13.28:073][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.11.02-21.13.28:073][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:073][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.11.02-21.13.28:073][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:073][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.11.02-21.13.28:073][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.11.02-21.13.28:074][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.11.02-21.13.28:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.11.02-21.13.28:074][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:074][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.11.02-21.13.28:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.11.02-21.13.28:076][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.11.02-21.13.28:076][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:076][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.11.02-21.13.28:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:076][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.11.02-21.13.28:076][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.11.02-21.13.28:077][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.11.02-21.13.28:077][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:077][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.11.02-21.13.28:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:077][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.11.02-21.13.28:077][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.11.02-21.13.28:078][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.11.02-21.13.28:078][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:079][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.11.02-21.13.28:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:079][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.11.02-21.13.28:079][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.11.02-21.13.28:081][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.11.02-21.13.28:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.11.02-21.13.28:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.11.02-21.13.28:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.11.02-21.13.28:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.11.02-21.13.28:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.11.02-21.13.28:207][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2022.11.02-21.13.28:211][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2022.11.02-21.13.28:315][  0]LogSlate: Took 0.000539 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.11.02-21.13.28:317][  0]LogSlate: Took 0.000499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.11.02-21.13.28:319][  0]LogSlate: Took 0.000596 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.11.02-21.13.28:415][  0]LogRenderer: Reallocating scene render targets to support 1208x568 Format 10 NumSamples 1 (Frame:1).
+[2022.11.02-21.13.29:227][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.11.02-21.13.29:228][  0]LogLoad: (Engine Initialization) Total time: 27.33 seconds
+[2022.11.02-21.13.29:228][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.11.02-21.13.29:303][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 24
+[2022.11.02-21.13.29:303][  0]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.29:303][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Custom_Assets/Hazards/Bat/Model/Bat_Death_Animation.Bat_Death_Animation
+[2022.11.02-21.13.29:303][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Custom_Assets/Utility/Flag/Flag_Anim.Flag_Anim
+[2022.11.02-21.13.29:303][  0]LogAssetRegistry: Asset discovery search completed in 21.4231 seconds
+[2022.11.02-21.13.29:311][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.11.02-21.13.29:314][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.11.02-21.13.29:335][  0]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.02-21.13.29:421][  2]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Custom_Assets/Hazards/Bat/Model/Bat_Idle_Animation.Bat_Idle_Animation
+[2022.11.02-21.13.29:444][  2]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.11.02-21.13.29:852][  3]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2022.11.02-21.13.29:852][  3]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.30:261][  4]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2022.11.02-21.13.30:261][  4]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.30:381][  4]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2022.11.02-21.13.30:381][  4]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.30:385][  4]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2022.11.02-21.13.30:385][  4]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.31:400][ 42]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2022.11.02-21.13.31:400][ 42]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.31:762][ 73]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2022.11.02-21.13.31:762][ 73]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.31:813][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.11.02-21.13.31:813][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.31:977][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2022.11.02-21.13.31:977][ 75]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.11.02-21.13.32:139][ 75]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 215
+[2022.11.02-21.13.32:139][ 75]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.32:226][ 75]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 205
+[2022.11.02-21.13.32:226][ 75]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.32:236][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 195
+[2022.11.02-21.13.32:236][ 75]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.32:518][ 88]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 185
+[2022.11.02-21.13.32:518][ 88]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.35:928][435]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 175
+[2022.11.02-21.13.35:928][435]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.36:621][506]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 165
+[2022.11.02-21.13.36:621][506]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.36:721][517]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 155
+[2022.11.02-21.13.36:721][517]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.36:827][528]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 145
+[2022.11.02-21.13.36:827][528]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.38:896][745]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 135
+[2022.11.02-21.13.38:896][745]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.39:320][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 125
+[2022.11.02-21.13.39:320][789]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.39:895][846]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 115
+[2022.11.02-21.13.39:895][846]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.40:313][889]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 105
+[2022.11.02-21.13.40:313][889]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.42:416][108]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 95
+[2022.11.02-21.13.42:416][108]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.42:776][145]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 85
+[2022.11.02-21.13.42:776][145]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.42:872][155]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 75
+[2022.11.02-21.13.42:872][155]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.43:625][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 65
+[2022.11.02-21.13.43:625][235]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.45:645][443]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 55
+[2022.11.02-21.13.45:645][443]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.46:200][502]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 45
+[2022.11.02-21.13.46:200][502]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.46:324][514]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2022.11.02-21.13.46:324][514]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.46:459][529]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2022.11.02-21.13.46:459][529]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.48:302][720]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2022.11.02-21.13.48:302][720]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.49:423][837]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2022.11.02-21.13.49:423][837]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.49:621][857]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2022.11.02-21.13.49:621][857]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.49:639][859]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2022.11.02-21.13.49:639][859]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.49:777][874]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.11.02-21.13.49:777][874]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.50:271][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.11.02-21.13.50:271][925]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.50:662][965]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2022.11.02-21.13.50:662][965]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.50:764][976]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.11.02-21.13.50:764][976]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.11.02-21.13.50:809][981]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 541
+[2022.11.02-21.13.50:809][981]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.50:835][984]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 531
+[2022.11.02-21.13.50:835][984]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.50:978][999]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 521
+[2022.11.02-21.13.50:978][999]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.51:173][ 21]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 511
+[2022.11.02-21.13.51:173][ 21]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.52:781][193]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 501
+[2022.11.02-21.13.52:781][193]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.53:017][219]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 491
+[2022.11.02-21.13.53:017][219]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.53:453][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 481
+[2022.11.02-21.13.53:453][267]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.53:508][273]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 471
+[2022.11.02-21.13.53:508][273]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.54:802][411]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 461
+[2022.11.02-21.13.54:802][411]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.55:305][464]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 451
+[2022.11.02-21.13.55:305][464]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.55:648][501]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 441
+[2022.11.02-21.13.55:648][501]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.56:566][599]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 431
+[2022.11.02-21.13.56:566][599]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.57:279][674]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 421
+[2022.11.02-21.13.57:279][674]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.57:621][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 411
+[2022.11.02-21.13.57:621][710]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.58:317][787]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 401
+[2022.11.02-21.13.58:317][787]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.58:335][788]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 391
+[2022.11.02-21.13.58:335][788]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.59:370][900]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 381
+[2022.11.02-21.13.59:370][900]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.13.59:629][926]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 371
+[2022.11.02-21.13.59:629][926]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.01:597][133]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 361
+[2022.11.02-21.14.01:598][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.01:733][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 351
+[2022.11.02-21.14.01:733][147]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.01:976][173]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 341
+[2022.11.02-21.14.01:976][173]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.02:299][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 331
+[2022.11.02-21.14.02:299][208]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.04:630][452]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 321
+[2022.11.02-21.14.04:630][452]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.04:657][454]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 311
+[2022.11.02-21.14.04:657][454]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.05:170][509]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 301
+[2022.11.02-21.14.05:170][509]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.05:228][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 291
+[2022.11.02-21.14.05:228][515]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.07:041][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 281
+[2022.11.02-21.14.07:042][705]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.07:850][789]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 271
+[2022.11.02-21.14.07:850][789]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.08:238][830]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 261
+[2022.11.02-21.14.08:238][830]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.09:025][914]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 251
+[2022.11.02-21.14.09:025][914]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.09:586][974]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 241
+[2022.11.02-21.14.09:586][974]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.10:669][ 89]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 231
+[2022.11.02-21.14.10:669][ 89]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.11:745][203]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 221
+[2022.11.02-21.14.11:745][203]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.11:785][207]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 211
+[2022.11.02-21.14.11:785][207]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.12:314][262]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 201
+[2022.11.02-21.14.12:314][262]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.13:805][418]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 191
+[2022.11.02-21.14.13:806][418]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.14:585][499]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 181
+[2022.11.02-21.14.14:585][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.14:683][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 171
+[2022.11.02-21.14.14:683][510]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.15:293][575]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 161
+[2022.11.02-21.14.15:293][575]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.17:148][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 151
+[2022.11.02-21.14.17:148][769]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.17:155][770]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 141
+[2022.11.02-21.14.17:155][770]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.17:661][823]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 131
+[2022.11.02-21.14.17:661][823]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.18:638][926]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 121
+[2022.11.02-21.14.18:638][926]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.19:679][ 33]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2022.11.02-21.14.19:679][ 33]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.20:091][ 77]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 101
+[2022.11.02-21.14.20:091][ 77]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.21:241][198]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2022.11.02-21.14.21:241][198]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.22:058][282]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2022.11.02-21.14.22:058][282]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.22:439][321]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 71
+[2022.11.02-21.14.22:439][321]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.22:793][359]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2022.11.02-21.14.22:793][359]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.24:473][532]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 51
+[2022.11.02-21.14.24:473][532]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.24:755][563]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2022.11.02-21.14.24:755][563]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.24:842][572]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2022.11.02-21.14.24:842][572]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.25:484][642]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2022.11.02-21.14.25:484][642]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.27:072][810]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2022.11.02-21.14.27:072][810]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.27:385][842]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2022.11.02-21.14.27:385][842]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.27:498][854]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2022.11.02-21.14.27:498][854]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.27:657][871]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2022.11.02-21.14.27:657][871]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.28:192][929]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2022.11.02-21.14.28:192][929]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.28:205][930]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2022.11.02-21.14.28:205][930]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.14.28:325][943]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2022.11.02-21.14.28:325][943]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2022.11.02-21.55.53:635][229]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
